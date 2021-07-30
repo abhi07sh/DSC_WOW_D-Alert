@@ -6,7 +6,7 @@
 }
 .but
 {
-  padding-left: 59%;
+  padding-left: 46%;
 
  }
  .but1
@@ -80,19 +80,19 @@ body
 } */
 .card-body
 {
-    background-color: #white;
+    background-color: white;
 }
 .c1
 {
 
-  background-color: #white;
+  background-color: white;
 
 
 }
 .c2
 {
 
-  background-color: #white;
+  background-color: white;
   max-height: 550px;
 
   overflow: auto;
